@@ -52,9 +52,9 @@ This document contains the findings from the comprehensive code review requested
 - `@types/frida-gum`: ^16.2.0
 
 **Recommendation**: 
-- Update Node.js types to latest LTS version
-- Migrate from tslint (deprecated) to ESLint
-- Update TypeScript to latest stable version (5.x)
+- Update Node.js types to v20 (current LTS) or v22 (latest LTS)
+- Migrate from tslint (deprecated since 2019) to ESLint 9.x
+- Update TypeScript to v5.7.x (current stable release as of Dec 2024)
 - **Priority**: Medium
 
 #### Rust Dependencies
