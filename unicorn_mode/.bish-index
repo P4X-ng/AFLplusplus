@@ -1,0 +1,9 @@
+./README.md
+./helper_scripts/ida_context_loader.py
+./helper_scripts/unicorn_dumper_gdb.py
+./helper_scripts/unicorn_dumper_pwndbg.py
+./helper_scripts/unicorn_loader.py
+./helper_scripts/unicorn_dumper_lldb.py
+./helper_scripts/unicorn_dumper_ida.py
+./build_unicorn_support.py
+./update_ref.sh

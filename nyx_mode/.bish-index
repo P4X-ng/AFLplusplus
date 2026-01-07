@@ -1,0 +1,5 @@
+./build_nyx_support.sh
+./README.md
+./custom_harness/fuzz.sh
+./custom_harness/fuzz_no_pt.sh
+./update_ref.sh

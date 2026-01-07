@@ -1,0 +1,12 @@
+./util/qemu_get_symbol_addr.sh
+./hooking_bridge/README.md
+./README.wine.md
+./README.md
+./libqasan/README.md
+./unsigaction/README.md
+./fastexit/README.md
+./README.persistent.md
+./build_qemu_support.sh
+./update_ref.sh
+./libcompcov/README.md
+./README.deferred_initialization_example.md
