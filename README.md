@@ -46,6 +46,9 @@ Here is some information to get you started:
   `afl-clang-fast` with `AFL_LLVM_CMPLOG=1`. You can find the `aflplusplus`
   default configuration on Google's
   [fuzzbench](https://github.com/google/fuzzbench/tree/master/fuzzers/aflplusplus).
+* For security information, vulnerability reporting, and security best practices,
+  see [SECURITY.md](SECURITY.md) and the comprehensive security review at
+  [docs/SECURITY_REVIEW.md](docs/SECURITY_REVIEW.md).
 
 ## Building and installing AFL++
 
